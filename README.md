@@ -6,4 +6,4 @@ Check it out [here!](https://srinivas-chandu.github.io/Ping-Pong/).
 - Made with **JavaScript**.
 - Opponent was computer.
 - Move the paddle with the help of mouse cursor.
-- Speed of the ball increases as no one misses, if one of the player misses the ball will reset.
+- Speed of the ball increases as no one misses, if one of the player misses the ball gets reset.
